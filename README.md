@@ -18,7 +18,7 @@ Analysis Stages
 
 ---
 
---->Data Loading and Inspection:
+---> **Data Loading and Inspection**:
 
 Load the dataset using pandas.
 Inspect the structure and summary statistics.
@@ -35,7 +35,7 @@ print(data.head())
 print(data.describe())
 ```
 
----> Model Training:
+---> **Model Training** :
 
 Split the dataset into training and testing sets.
 Train a model using scikit-learn.
